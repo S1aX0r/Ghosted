@@ -4,13 +4,13 @@ Welcome to Ghosted. If you're here, you're most likely worried about your person
 
 ## PLEASE NOTE ##
 
-Ghosted is not to be used for nerfarious purposes or intent. This guide is to provide a foundation or improve the privacy, security, and anonymity of people in the modern digitalized world. Also the more security, privacy and anonymity you add to your life, you are giving up ease of use for better protection. Please keep this in mind! The author is not responsible for missuse of this information and guidance.
+Ghosted is not to be used for nerfarious purposes or intent. This guide is to provide a foundation or improve the privacy, security, and anonymity of people in the modern digitalized world. REMEMBER the more security, privacy and anonymity you add to your life, you are giving up ease of use for better protection. Please keep this in mind! The author is not responsible for missuse of this information and guidance.
 
 ## ##
 
 # OPSEC (Operational Security) #
 
-Your OPSEC is the most important factor that plays into security, privacy and anonymity. OPSEC is what this entire guide will cover, so it is important to remember key features that are discussed. So, let's start off with our first step to becoming Ghosted!
+Your OPSEC is the most important factor that plays into security, privacy and anonymity. OPSEC is what this entire guide will cover, so it is important to remember key features that are discussed. So, let's start off with our first step to becoming a digital Ghost!
 
 ## ##
 
@@ -263,3 +263,56 @@ Linux is the best to use for P.S.A especially the last three recommended distros
 If you swapped to Linux then congrats! You are now a FOSS user who uses an amazing operating system. Keep in mind there are other distros that you can look into, like Debian or Arch. Now that your laptop or computer are using FOSS next we have to secure another piece of technology, your mobile device!
 
 ## ##
+
+### SMARTPHONES & APPS ###
+
+Your phone believe it or not is the biggest privacy envasive technology that is on you 24/7. Smartphones such as iPhone or Google made Android phones have the ability to track you without your knowledge. While Android and iPhone are closed source operating systems that collect and store your data, it is best to swap from these two proprietary OS's.
+
+However if that is not possible then please lock down your Android phone and or iOS device for enhanced privacy. Disable all forms of tracking, do not give apps any sort of permissions and do not use an iCloud account or allow sensitive info to be stored in iCloud.
+
+Same concept applies for Android but there are different options. Custom ROM's (Android Read Only Memory) are custom operating systems that can replace stock Android. These ROM's can provide far better security, and privacy and to an extent anonymity by utilizing FOSS tools and FOSS operating systems. So here are the ROM's that should be used.
+
+### RECOMMENDED SMARTPHONE OPERATING SYSTEMS ###
+
+### 1. GrapheneOS ###
+
+A free and open source Android based operating system that offers high amounts of security and privacy. Graphene is a de-Googled phone meaning that Google has been removed from the operating system. However if you want to use Google apps and services, Graphene offers sandboxed Google play services. Only available for Google Pixel phones. Developed by a non-profit organization, 
+
+### 2. CalyxOS ###
+
+A FOSS Android OS developed by the Calyx Institute, that offers security, privacy and even anonymity based tools like the Tor browser and Orbot. Uses FOSS applications like messengers such as Signal and Briar, cloud storage apps like Nextcloud, and VPN's like Riseup VPN. Supports a variety of smartphones like Pixel phones and tablets, Fairphones, SHIFT phones, and MotoG.
+
+### Inconclusion ###
+
+While there are no iPhone alternatives for private operating systems, iPhone is a secure OS that can utilize FOSS apps that can provide an upper hand in privacy for Android and iOS.
+
+Let's take a dive into P.S.A applications.
+
+### RECOMMENDED APPS ###
+
+### 1.Micro G ###
+
+An open source alternative to Google Play Services. Apps and services will work as if they were on a stock Android but is more privacy respecting without any tracking from Google. Available on CalyxOS and GrapheneOS.
+
+### 2. F-Droid ###
+
+F-Droid is an app store alternative that catalogues FOSS applications for Android & ROM's. Functions like a typical app store that allows users to browse, install and manager FOSS apps installed. 
+
+### 3. Aurora Store ###
+
+Available via the F-Droid store, a FOSS client to Google Play that allows users to download, update, and search for apps without Google tracking.
+
+### Inconclusion ###
+
+These FOSS apps not only distribute more FOSS apps but also give great abilities like removing Google tracking when using Google Play Services.
+
+However there is still more that we have to do. While you may be using FOSS operating systems and applications, there is still internet traffic that needs to be protected. In order to ensure that your internet traffic is secure, private and anonymized, proper and trusted services must be used. So what are we waiting for? Let's get into this.
+
+## ##
+
+### PRIVATE, SECURE AND ANONYMOUS TRAFFIC ###
+
+This section will cover a large range of techniques and tools to secure and anonymize your traffic.
+
+### VPN (VIRTUAL PRIVATE NETWORKS) ###
+
