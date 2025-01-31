@@ -312,7 +312,58 @@ However there is still more that we have to do. While you may be using FOSS oper
 
 ### PRIVATE, SECURE AND ANONYMOUS TRAFFIC ###
 
-This section will cover a large range of techniques and tools to secure and anonymize your traffic.
+This section will cover a large range of techniques and tools to secure and anonymize your traffic. VPN's DNS, messengers, cloud storage and other tools will be discussed. 
 
 ### VPN (VIRTUAL PRIVATE NETWORKS) ###
 
+VPN's will not only encrypt your traffic but will also change you IP address from where you are located and change it to the servers that the VPN is running on. Please note that VPN's can act differently and can handle user data differently. It's recommended to use VPN's that are trusted, verified and do not collect or log any of your info. Some exceptions will be mentioned but are safe and secure over all. Let's check out some VPN'S!
+
+### RECOMMENDED VPN'S ###
+
+### 1. Mullvad VPN ###
+
+The most FOSS transparent VPN service that doesn't require any user information, nor keep logs. No email, credit card, or phone number is needed. Account is made for you that isn't tied to you in any way. Offers multiple payment methods such as crypto and paying in cash. Safe, secure and with proper steps taken anonymous. A go to choice for users concerned about P.S.A.
+
+### 2. IVPN ###
+
+Similar to Mullvad as a FOSS VPN that allows payments via cryptocurrency and doesn't require any user information. No logging and another go to for P.S.A.
+
+### 3. Proton VPN ###
+
+A FOSS VPN and part of the Proton family this VPN should be signed up for over the Tor network. An email is required (see email section), as well as a password (see password section). Sign up with Tor for better privacy. Proton VPN offers a free tier for user who don't wish to pay. No logging and Switzerland based.
+
+### 4. Windscribe ###
+
+Another FOSS VPN that offers a free tier with strong encryption, multiple servers, and ad block.
+
+### 5. OpenVPN & Wireguard ###
+
+OpenVPN and Wireguard can be installed on Linux, Mac and Windows and is commonly installed on most Linux distros like Mint. These two VPN's are FOSS and allow a user to have more control over the settings when they are in use. The mentioned VPN's offer a OpenVPN configuration file which can be used instead of the application that comes with the VPN. Can also be used with servers in the cloud if you run your own VPN service.
+
+### Inconclusion ###
+
+VPN's are great but not all are created equally. The 5 mentioned above are great and should be used to ensure your internet traffic is secure, private and anonymous. If you wish to make your own VPN service in the cloud and disable all forms of traffic that is a more trusted VPN, as you are in control.
+
+### DNS (DOMAIN NAME SYSTEM) ###
+
+Your computer uses DNS to look up websites instead of looking up website names. For example 8.8.8.8 is what a computer would look at but we know it as Google.com. Your ISP or internet service provider can see what websites you go to, so having a private and secure DNS is an extra layer of privacy as well as security. So let's take a look into DNS's for your computers and browsers!
+
+### RECOMMENDED DNS ###
+
+### 1. NextDNS ###
+
+NextDNS offers a free tier for users worried about their P.S.A, and is very customizeable for maximum control. Capable of running on browsers and opearting systems.
+
+### 2. Mullvad DNS ###
+
+Mullvad DNS is a free, encrypted and very private DNS that supports DNS over HTTPS and DNS over TLS. Able to run on browsers, operating systems and supports various blocking filters like ads, malware, trackers, adult websites, gambling websites and social media. No logging as well. This DNS provider does it all and is suited for users worried about their P.S.A.
+
+### 3. Quad 9 ###
+
+Quad 9 is a free DNS provider with an emphasis on security and privacy. No logging of users IP address's and is able to run on browsers and operating systems.
+
+### Inconclusion ###
+
+When not using a VPN (which has its own DNS), a secure and privacy focused DNS will protect your traffic from being snooped on by your ISP or outside threats. It is another layer of security which is always beneficial.
+
+## ##
