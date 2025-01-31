@@ -1,5 +1,7 @@
 # INTRODUCTION #
+
 ## ##
+
 Welcome to Ghosted. If you're here, you're most likely worried about your personal privacy and how easily it can be searched up and used for malicious purposes. Hackers and scammers are not the only entities that are searching for your data. Depending on your threat model, three letter agencies such as the FBI, CIA, GRU or even other agencies that are unknown of, have an advantage in getting your information. Digital privacy, security, and anonymity will become more prominent in the future, so you may either take action now or suffer later. Enjoy Ghosted and please make sure to check up on Ghosted for information that will change. Remember to do your own research when in doubt and let's improve your PSA (Privacy, Security, and Anonymity)!
 
 ## PLEASE NOTE ##
@@ -280,7 +282,7 @@ A free and open source Android based operating system that offers high amounts o
 
 ### 2. CalyxOS ###
 
-A FOSS Android OS developed by the Calyx Institute, that offers security, privacy and even anonymity based tools like the Tor browser and Orbot. Uses FOSS applications like messengers such as Signal and Briar, cloud storage apps like Nextcloud, and VPN's like Riseup VPN. Supports a variety of smartphones like Pixel phones and tablets, Fairphones, SHIFT phones, and MotoG.
+A FOSS Android OS developed by the Calyx Institute, that offers security, privacy and even anonymity based tools like the Tor browser and Orbot. Uses FOSS applications like messengers such as Signal and Briar, cloud storage apps like Nextcloud, and VPN's like Riseup VPN. Comes pre-installed with 18 FOSS and P.S.A respecting apps. Supports a variety of smartphones like Pixel phones and tablets, Fairphones, SHIFT phones, and MotoG.
 
 ### Inconclusion ###
 
@@ -364,6 +366,41 @@ Quad 9 is a free DNS provider with an emphasis on security and privacy. No loggi
 
 ### Inconclusion ###
 
-When not using a VPN (which has its own DNS), a secure and privacy focused DNS will protect your traffic from being snooped on by your ISP or outside threats. It is another layer of security which is always beneficial.
+When not using a VPN (which has its own DNS), a secure and privacy focused DNS will protect your traffic from being snooped on by your ISP or external threats. It is another layer of security which is always beneficial for everyone and for every threat model.
+
+### MESSENGERS ###
+
+Your smartphone should not be using SMS aka the green bubbles. SMS texting is not secure nor encrypted and can be vulnerable to attacks. While iMessage for iOS does have security features, it lacks any form of privacy, and additonal security features.
+
+So let's use more secure and privacy respective messengers for your daily communication needs.
+
+### RECOMMENDED MESSENGERS ###
+
+### 1. Briar ###
+
+Briar is a FOSS end to end encrypted messenger that is decentralized. Briar can sync when WiFi, bluetooth
+or memory cards to maintain the flow of info if the internet ever goes down. When connected to WiFi, Briar uses the Tor network for syncing and protecting the user from surveillance. Does not require a phone number nor any personal identification and all data is stored on device. Available for Android / Android ROM's, and desktops. 
+
+
+### 2. Session ###
+
+Session is a FOSS E2EE messaging app that minimises metadata (data that contains info for more data). No phone number nor email is needed to sign up, data is locally hosted on device, routes through Tor. Allows for voice messaging, and attachments. Decentralized and aims for P.S.A. Available for desktop, iOS, Android / Android ROM's. 
+
+### 3. SimpleX ###
+
+FOSS and E2EE that requires no form of identification. Decentralized proxy servers, and messages are relayed either through Tor or SimpleX servers for added security (via user's choice). Available for iOS, desktop, Android / Android ROM's
+
+### 4. Signal ###
+
+Signal has been praised for its security and privacy, however it is not anonymous. Signal does provide great security features for encrypted communications as well as routing calls through Signal owned proxies. Signal does require a phone number, so a phone number must be acquired anonymously. Usernames are a feauter of Signal which adds an extra sense of security and privacy. 
+
+
+### Inconclusion ###
+
+We all are either texting family, friends, co-workers or whoever. Messages can be intercepted if not using any form of encryption and can be tied back to you if they require personal information. The four included above excluding Signal are the best for P.S.A. Where as Signal is better for privacy and security.
+
+### ALIASING ###
+
+Never have the info come back to you... That can be very hard to do when there's already a ton of data that has been collected and is being collected of you. The best way to fight this is to use aliasing apps to prevent data being relate to your ID.
 
 ## ##
