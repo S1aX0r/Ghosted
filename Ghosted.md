@@ -2,7 +2,7 @@
 
 ## ##
 
-Welcome to Ghosted. If you're here, you're most likely worried about your personal privacy and how easily it can be searched up and used for malicious purposes. Hackers and scammers are not the only entities that are searching for your data. Depending on your threat model, three letter agencies such as the FBI, CIA, GRU or even other agencies that are unknown of, have an advantage in getting your information. Digital privacy, security, and anonymity will become more prominent in the future, so you may either take action now or suffer later. Enjoy Ghosted and please make sure to check up on Ghosted for information that will change. Remember to do your own research when in doubt and let's improve your PSA (Privacy, Security, and Anonymity)!
+Welcome to Ghosted. If you're here, you're most likely worried about your personal privacy and how easily it can be searched up and used for malicious purposes. Hackers and scammers are not the only entities that are searching for your data. Depending on your threat model, three letter agencies such as the FBI, CIA, GRU or even other agencies that are unknown of, have an advantage in getting your information. Digital privacy, security, and anonymity will become more prominent in the future, so you may either take action now or suffer later. Enjoy Ghosted and please make sure to check up on Ghosted for information that will change. Remember to do your own research on your threat modek and when in doubt. Let's improve your PSA (Privacy, Security, and Anonymity)!
 
 ## PLEASE NOTE ##
 
@@ -97,11 +97,11 @@ The alternative is to use private emails. Let's look into better emails.
 
 ### 1. Proton Mail ###
 
-A FOSS and secure private email service that can be signed up for over Tor or a VPN. Proton Mail has a free tier and a paid tier with more features like greater storage. All emails are encrypted and can be encrypted when sending to non Proton emails. Available for iOS, Android, and Linux (recommended).
+A FOSS and secure private email service that can be signed up for over Tor or a VPN. Proton Mail has a free tier and a paid tier with more features like greater storage. All emails are encrypted and can be encrypted when sending to non Proton emails. Available for iOS, Android, and Linux (recommended). Recommended to sign up for over the Tor network.
 
 ### 2. Tutanota ###
 
-A free and open source email service that offers a free tier and asks for no information about the user. Tutanota is E2EE and has a sleek user interface for simplicity. Can be signed up for over Tor or VPN. Pairs well when signing up for Proton Mail.
+A free and open source email service that offers a free tier and asks for no information about the user. Tutanota is E2EE and has a sleek user interface for simplicity. Can be signed up for over Tor or VPN. Pairs well when signing up for Proton Mail. Recommended to sign up for this email first over the Tor network and then sign up for Proton Mail if desired.
 
 ### Inconclusion ###
 
@@ -286,7 +286,7 @@ A FOSS Android OS developed by the Calyx Institute, that offers security, privac
 
 ### Inconclusion ###
 
-While there are no iPhone alternatives for private operating systems, iPhone is a secure OS that can utilize FOSS apps that can provide an upper hand in privacy for Android and iOS.
+While there are no iPhone alternatives for private operating systems, iPhone is a secure OS that can utilize FOSS apps that can provide an upper hand in privacy for Android.
 
 Let's take a dive into P.S.A applications.
 
@@ -401,6 +401,205 @@ We all are either texting family, friends, co-workers or whoever. Messages can b
 
 ### ALIASING ###
 
-Never have the info come back to you... That can be very hard to do when there's already a ton of data that has been collected and is being collected of you. The best way to fight this is to use aliasing apps to prevent data being relate to your ID.
+Never have the info come back to you... That can be very hard to do when there's already a ton of data that has been collected and is being collected of you. The best way to fight this is to use an alias to prevent data being relate to your ID. An alias service allows you to put in "fake info" that is securely and privately made, and routes the info provided through the alias to you. In short terms: it's a middle man. This will cover email, phone number, credit cards, and home addresses. Please be aware that there might be resources available but might not be privacy respective even if they offer a service that seems so.
+
+Let's begin!
+
+### RECOMMENDED ALIAS SERVICES ###
+
+### 1. Addy.io ###
+
+Also known as AnonAddy, this free and open source email alias service provides great security and privacy for protecting your emails. A free option is available that gives users 10 MB a month.
+
+### 2. SimpleLogin ###
+
+An FOSS email service that provides users with an easy experience and a free tier. Users can not only recieve but also send emails from their alias. Unlimited bandwidth more feautres coming soon such as phone number and credit card.
+
+### 3. MySudo ###
+
+MySudo is a paid proprietary phone number aliasing service that allows users depending on their plan to have one or nine alternate phone numbers. For maximum privacy a pre-paid Mint mobile SIM card should be used (purchased in either Monero, Zcash, or cash). MySudo offers a $1/month plan that gives one alias phone number, 3 email adresses, user handles, secure communications, 3 private browsers, and 3 virtual credit cards. Pay for MySudo services using virtual credit cards from Privacy.com, or through pre-paid credit cards like Visa gift cards.
+
+### 4. Privacy.com ###
+
+Privacy.com is a US only credit card aliasing service that hides users credit cards, often known as virtual credit cards. Offers a free tier and allows cards to be tailored for different services and hold big budgets.
+
+### 5. Virtual Addressing ###
+
+There are services like iPostal1, UK PostBox, and PostScanMail which provide a virtual address to hide your real home address. However they require lots of personal information and if necessary steps have been taken you can use these however be aware of the risks with using their services. Try as best as you can to give a real address that isn't related to or near you at all. If you are in the U.S and order something from Amazon, there are Amazon lockers where you can go an pick up your items. It's best to find a place that has a real address and send your mail there using faked information such as name, aliased email, phone number, and other info that is needed. Keep in mind this can be very difficult to do, or if you want send mail to a trusted friend or family member and pick it up from them. 
+
+### Inconclusion ###
+
+Good OPSEC includes data never being traced back to you, or mitigating as little of data being traced back or related to you. An alias can provide good security and privacy but be aware that aliasing your info is just a part of P.S.A.
+
+Now, that aliasing has been covered we still have a lot more to cover, if you need to take a break and assess what you will and won't do. For higher security you must be committed and dedicated to not using anything Google or Meta related. More will be discussed about this...
+
+Now, let's talk about cloud storage.
+
+### CLOUD STORAGE ###
+
+Everything nowadays has to be in the cloud... While that's not a bad thing and can provide better storage than keeping everything on a device or external SSD. There are often security flaws as well as large privacy issues such as who is maintaing your storage. While there are FOSS cloud providers, the best way of storing all of your sensitive files is to purchase external SSD's that range in the 1 to 2 terabytes of space. More is better if affordable. However if you can't afford external SSD's then the cloud can provide another option.
+
+### RECOMMENDED CLOUD STORAGE
+
+### 1. Nextcloud ###
+
+Nextcloud is a FOSS self-hostible service that can hold all forms of documents, photos, contacts and much more. While this is not E2EE, precautions should be taken with Nextcloud. Prices may vary...
+
+### 2. Proton Drive ###
+
+A FOSS cloud service within the Proton family that offers a free tier with 5G of space. Protected with E2EE for users sensitive files. 
+
+### 3. Cryptomator ###
+
+While not a cloud provider, Cryptomator encrypts files and documents, then allows the users to send off encrypted sensitive data to cloud providers. 
+
+### 4. Onionshare ###
+
+OnionShare is an open-source tool that lets you securely and anonymously share files, host websites and chat using the Tor network. Can be installed on all operating systems and is the best for sharing files due to the Tor network.
+
+### 5. External Storage ###
+
+Arguably the best choice for users serious about their P.S.A. No one to trust except yourself and your OPSEC. There are DIY options for hosting your own storage such as the Synology NAS. External hard drives and USB's are the best option that are encrypted and also hidden in either a safe or somewhere else where only you have the knowledge of its location.
+
+### Inconclusion ###
+
+Cloud storage is controversial among the tech and privacy community. If taken the proper steps having a private and secure cloud service provider to hold sensitve files can help with your P.S.A. However the best option is self hosting or external drives.
+
+You might be wondering, where do I buy all these items and what should I use to buy them. Glad you asked because this is where crypto comes in. Crypto has been on the rise since the start of 2025. And using it to your advantage can give you the upper hand on improving your P.S.A. 
+
+### CRYPTOCURRENCIES ###
+
+Crypto is decentralized meaning that no one can control it. While it seems anonymous and can never be traced back to you, Bitcoin has a public blockchain that allows anyone to see who they got money from and where they are sending money too. Not the best for privacy... So here are some alternatives.
+
+
+### RECOMMENDED CRYPTOCURRENCIES ###
+
+### 1. Monero XMR ###
+
+Monero (XMR) is a free and open source privacy based crypto with a strong emphasis on user privacy, full user control and high end security. A Monero node can be hosted locally on your computer or laptop or via a server that you control. Public nodes are availble however it is NOT RECOMMENDED to use them for privacy and security reasons. Monero features the ability to create multiple addresses for added anonymity, and comes with a modern GUI or works via a command line interface (CLI) for all operating systems. Monero nodes can run through the Tor network for added P.S.A and Monero nodes with Tor can be run locally as well. An absolute necessity for ghosts and cryptocurrencies. 
+
+### 2. Zcash ###
+
+Much like Monero Zcash (ZEC) is privacy and security focused that puts the user in complete control. Zcash offers encrypted transactions and hides wallet address. No publicly viewable record, free and open source and accepted in many retail places with the use of 3rd party apps. Zcash is an absolute power house.
+
+### 3. Cake Wallet ###
+
+Cake Wallet is a FOSS crypto wallet that can easily hold you Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
+
+### 4. Bisq ###
+
+Bisq is a decentralized peer to peer, bitcoin exchange site. Offers a GUI to work from and is very simple to purchase and sell cryptocurrencies. Free and open source, privacy first, require zero forms of ID, and never holds your funds. 
+
+### 5. Cryptwerk.com / Coincards.com ###
+
+These two websites allow users to use their crypto currencies like Monero to buy whatever the user needs. Cryptwerk (recommended by the Monero team), has a Monero directory that allows users to buy everyday items like clothes, electronics, and even hotel and tour bookings. All businesses and services within Cryptwerk have a rating system that corresponds with the store and allows customers to leave a review. 
+
+Coincards.com allows people to buy gift cards with crypto. Gift cards can range from retail, beauty, clothing, home improvement, groceries and even pre-paid credit cards. Coincards has it all and even allows users to buy gift cards worth up to $1,000. Privacy and security focused however it is proprietary, but offers a solution to living off crypto.
+
+### Inconclusion ###
+
+Cryptocurrencies like Monero and Zcash are perfect for being a ghost in the modern world. They can even be mined just like Bitcoin, however be aware of the cost that can have on you and utility bills. If you want to live off the crypto you trade, mine or invest in services like Cryptwerk and Coincards allow you to do so. And services like Bisq allow you to trade and sell you crypto to make profits.
 
 ## ##
+
+Holy cow! If you have made it this far into Ghosted, then you deserve a treat. Go get yourself some ice cream using some of the tools and services that were talked about earilier. However now is when it gets very serious, we have to talk about physical security, recommended hardware, threat models, DIY projects, removal of data found on internet and much more. 
+
+If you have incorporated every step up until now then you are 75% complete from calling your self a digital ghost! Also good job on making it this far, it's not easy to do but you are sure are doing it with ease!
+
+## ##
+
+### PHYSICAL SECURITY ###
+
+Let's now go into physical security. You can be super secure, private and anonymous on the internet and digital world, but if you aren't in real life, then you are setting yourself up for disaster. This will cover physical OPSEC to ensure you have the best security in the real world. Let's get into it.
+
+### PHYSICAL SECURITY RECOMMENDATIONS ###
+
+### 1, Clothing ###
+
+You're clothing should not be flashy or eye catching in any way. Refrain from dressing up in neon colors, wearing t-shirts, hoodies, jackets or pants that have large custom designs that can attract unwanted attention, wearing flashy jewlery, or wearing clothing that seems out of place and causes people to stare. You should be trying to blend in with the crowd or seem invisible while in the crowd. Stick to neutral colors such as black, dark or light grey, white, brown, tan, dark green, and jeans. 
+
+It is recommended to dress appropriately according to the weather. If it is Summer or Spring time, don't wear a hoodie or jacket, opt for something cool to prevent heat exhuastion like t-shirts and shorts. In the Winter and Fall where weather is cooler and strong winds can be prevelant. Wear hoodies and or jackets, gloves, hats, face masks like gaitor masks or clothed doctor masks, pants, and sneakers or boots.
+
+For example this would be a great start for Winter or Fall:
+
+-Black hoodie (no zipper, logo, or design)
+
+-Black bomber or regular jacket (no logo or design), 
+
+-Dark gray, green, tan, brown or black, fitted / slim (optional) cargo pants, joggers, sweatpants or jeans. 
+
+-Dark colored beanie (no logo, design or pompom)
+
+-Face mask (optional)
+
+-Gloves
+
+-Dark colored running sneakers or combat boots
+
+-Backpack or bag (optional)
+
+-Sunglasses (optional)
+
+You can of course mix and match and add your own flavor this is just an example to seem low profile and hidden. 
+
+Remember ALWAYS WEAR SNEAKERS!!!
+
+Buy your clothes using cash, crypto, or gift cards privately or anonymously obtained. 
+
+### Inconclusion ###
+
+Wearing the right clothes that are not only comfortable and functional but also keep you blended into the crowd or hidden, will be best for you. Make sure to fit the crowd or learn to stay hidden in public places. Be wary of cameras that may record your face or eyes and take necessary precautions in where you are going and the general surveillance.
+
+### Hardware & Gadgets ###
+
+Using the correct hardware such as crypto wallets, laptops and computers with the correct power, storage and ram can change how well or different you operate with your devices. 
+
+### RECOMMENDED LAPTOPS / COMPUTERS ###
+
+### 1. NitroPad V56 ###
+
+The NitroPad V56 is made from the same company that makes NitroKeys for 2FA. This computer can be bought with virtual credit cards or via Bitcoin. Depending on the hardware specs you want prices will vary, especially when it comes to QubesOS. It is recommended to get a Nitropad V56 with the following specs to the laptop. 
+
+-Intel i7 11th Gen
+
+-Nvidia GeForce RTX 4070
+
+-1TB SSD
+
+-32GB RAM
+
+-No webcam / microphone
+
+-Qubes 4.2 OS
+
+That will cost around $2,920 or more depending on shipping. UEFI can be replaced with Libreboot or Coreboot. 13 inch laptop.
+
+### 2. Asus ROG Flow X13 2023 ###
+
+While made by Asus this computer packs a punch. Depending on the model you can get a powerhouse computer that is capable of running QubesOS. Recommended hardware specs:
+
+-AMD Ryzen 9 7940HS
+
+-Nvidia GeForce RTX 4070
+
+-1TB SSD
+
+-32GB RAM
+
+-GNU/Linux OS 
+
+This will cost around $1,600 or more depending on shipping. Great for running Linux Mint, Fedora or Qubes for a FOSS OS. 13 inch laptop, multiple ports, lightweight and thin for its power. 
+
+### 3. Lenovo Legion 9i
+
+More of a power beast than previous two made specifically for hard core gaming, but more than capable of being a beast for Qubes or any Linux distro. Recommended hardware specs:
+
+-Intel i9 14th Gen
+
+-Nvidia GeForce RTX 4090
+
+-64GB RAM
+
+-2TB SSD
+
+This will be the most expensive due to its power coming in at around $4,150 or more depending on tax. 16 inch laptop, multiple ports, liquid cooled, and more than enough power for Qubes or any Linux distro.
