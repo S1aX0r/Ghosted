@@ -484,7 +484,7 @@ Much like Monero Zcash (ZEC) is privacy and security focused that puts the user 
 
 ### 3. Cake Wallet ###
 
-Cake Wallet is a FOSS crypto wallet that can easily hold you Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
+Cake Wallet is a FOSS crypto wallet that can easily hold your Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
 
 ### 4. Bisq ###
 
