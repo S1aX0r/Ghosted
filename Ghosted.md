@@ -101,7 +101,7 @@ A FOSS and secure private email service that can be signed up for over Tor or a 
 
 ### 2. Tutanota ###
 
-A free and open source email service that offers a free tier and asks for no information about the user. Tutanota is E2EE and has a sleek user interface for simplicity. Can be signed up for over Tor or VPN. Pairs well when signing up for Proton Mail. Recommended to sign up for this email first over the Tor network and then sign up for Proton Mail if desired.
+A free and open source email service that offers a free tier and asks for no information about the user. Tutanota is E2EE and has a sleek user interface for simplicity. Can be signed up for over Tor or VPN. Pairs well when signing up for Proton Mail. Recommended to sign up for this email first over the Tor network and then sign up for Proton Mail using your Tutanota as a backup email if desired. Available for all OS.
 
 ### In Conclusion ###
 
@@ -128,7 +128,6 @@ Let's take a look into password managers, shall we?
 ### 1. KeePassXC ###
 
 KeePassXC is a free and open source password manager that can save usernames, passwords, URLs, attachments, and notes in an offline, encrypted file. KeePass databases can be stored in either an offline environment such as your computer or transfer to an external USB drive, or in a cloud based environment.
-
 
 ### 2. Proton Pass ###
 
@@ -409,7 +408,7 @@ Let's begin!
 
 ### 1. Addy.io ###
 
-Also known as AnonAddy, this free and open source email alias service provides great security and privacy for protecting your emails. A free option is available that gives users 10 MB a month.
+Also known as AnonAddy, this free and open source email alias service provides great security and privacy for protecting your emails. A free option is available that gives users 10 MB a month of bandwidth.
 
 ### 2. SimpleLogin ###
 
@@ -421,7 +420,7 @@ MySudo is a paid proprietary phone number aliasing service that allows users dep
 
 ### 4. Privacy.com ###
 
-Privacy.com is a US only credit card aliasing service that hides users credit cards, often known as virtual credit cards. Offers a free tier and allows cards to be tailored for different services and hold big budgets.
+Privacy.com is a US only credit card aliasing service that hides users credit cards, often known as virtual credit cards. Offers a free tier and allows cards to be tailored for different services and holds big budgets.
 
 ### 5. Virtual Addressing ###
 
@@ -524,13 +523,15 @@ For example this would be a great start for Winter or Fall:
 
 -Black hoodie (no zipper, logo, or design)
 
+-T-shirt or shirt (no logo or design)
+
 -Black bomber or regular jacket (no logo or design), 
 
 -Dark gray, green, tan, brown or black, fitted / slim (optional) cargo pants, joggers, sweatpants or jeans. 
 
 -Dark colored beanie (no logo, design or pompom)
 
--Dark clothed doctor face mask (optional)
+-Dark clothed medical face mask (optional)
 
 -Gloves
 
@@ -570,7 +571,7 @@ The NitroPad V56 is made from the same company that makes NitroKeys for 2FA. Thi
 
 -No webcam / microphone
 
--Qubes 4.2 OS
+-No OS
 
 That will cost around $2,920 or more depending on shipping. UEFI can be replaced with Libreboot or Coreboot. 13 inch laptop.
 
@@ -602,6 +603,8 @@ More of a power beast than previous two made specifically for hard core gaming, 
 
 -2TB SSD
 
+-GNU/Linux OS
+
 This will be the most expensive due to its power coming in at around $4,150 or more depending on tax. 16 inch laptop, multiple ports, liquid cooled, and more than enough power for Qubes or any Linux distro.
 
 ### 4. Thinkpad T430 ###
@@ -614,6 +617,33 @@ Made from the Nitrokey family as well that is privacy and security first while a
 
 ### In Conclusion ###
 
-Laptops and PC's can cost a lot, but if you have the right amount of money then you can buy whatever piece of hardware you want. You can be also budget friendly and use a spare laptop lying around and replace it with Linux. Whatever laptop with high or low specs you buy, it is your computer, have fun with it.
+Laptops and PC's can cost a lot, but if you have the right amount of money then you can buy whatever piece of hardware you want. You can be also budget friendly and use a spare laptop lying around and replace it with Linux. Whether you buy a laptop with high or low specs, it is your computer, have fun with it.
+
+### ADDITIONAL HARDWARE ###
+
+You can have a computer or laptop running Qubes, a Pixel phone with CalyxOS and have the best OPSEC. But you still need additional pieces of hardware that can protect your home. This section will cover so.
+
+### RECOMMENDED ADDITIONAL HARDWRE ###
+
+### 1. Ledger Nano S Plus ###
+
+The proprietary Ledger Nano S Plus is an affordable and reliable hardware crypto wallet. With ample memory that can run up 100 apps simultaneously. Built to be robust and has certified secure element chip for added security. Does contain NFT support and is USB-C selling at $79. 
+
+
+### 2. Trezor Safe 3 ###
+
+A FOSS hardware crypto wallet that supports 1000 different crypto currencies. Frequently updated and supports an easy and clean UI with color display. USB-C supporting, affordable at $79 and is easy to set up and use. 
+
+### 3. Raspberry Pi ###
+
+The Raspberry Pi is a credit card like sized computer that can be used for a variety of purposes. Normally used for building home labs and other cybersecurity related products like the Pi-Hole ad blocker and setting up a VPN server. Raspberry Pi can also be turned into a router running OpenWrt firmware for FOSS Wifi! The possibilities are endless with a Raspberry Pi 4 or 5. There are also other models like the Pico which are more affordable as well as being smaller. 
+
+### 4. NETGEAR Nighthawk Pro  ###
+
+This router can be flashed with OpenWRT, a FOSS OS made for routers to give full control to the user. With OpenWRT you are in control and can even apply a VPN configuration file to your router for added P.S.A like Mullvad or IVPN. 
+
+### 5. Faraday Bags ###
+
+Faraday bags are capable of blocking out signals that are transmitted from technology. Optimal for when you have your phone in public and don't want any form of transmission coming from your phone such as WiFi or bluetooth. There are also Faraday pouches available for phones and tablets. Recommended to use a Faraday backpack with Faraday pouches for tablets or smartphones. Can also be used for blocking connections that use NFC (Near Field Communication) such as credit / debit cards. A necessity for ghosts worried about their P.S.A.
 
 ## ##
