@@ -47,7 +47,7 @@ The Tor browser is the go to if you want anonymity, security on a whole other le
 Firefox is a free and open source browser that is private and secure. However it requires hardening in order to ensure its full potential. Lots of security and privacy featu### Inconclusion ###
 res that can be tailored for various needs and has access to extensions to improve the security of the browser. Ublock Origin and Privacy Badger are recommended to install on Firefox.
 
-### Inconclusion ###
+### In Conclusion ###
 There are plenty of other options that are avialable 
 for browsers but these are the top five recommended. Keep in mind that different browsers can be used for various reasons and can fulfill different wishes. Do research on what browser suits your needs and make sure to verify that you have the correct browser installed. 
 
@@ -80,7 +80,7 @@ Installed on the Mullvad Browser by default that utilizes Google's API as a prox
 
 Searx is a free and open-source metasearch engine. Aims for protecting the privacy of its users. Searx does not share users' IP addresses or search history with the search engines where it gathers results. Can be hosted on a server in the cloud and fully controlled by you.
 
-### Inconclusion ###
+### In Conclusion ###
 While there are other search engines available such as Ecosia, the listed above pair well with the recommended browsers. 
 
 If you are able to make it this far and implement a new browser and search engine, you have already done more than a majority of what people do for their P.S.A. So, let's go onto the next section!
@@ -103,7 +103,7 @@ A FOSS and secure private email service that can be signed up for over Tor or a 
 
 A free and open source email service that offers a free tier and asks for no information about the user. Tutanota is E2EE and has a sleek user interface for simplicity. Can be signed up for over Tor or VPN. Pairs well when signing up for Proton Mail. Recommended to sign up for this email first over the Tor network and then sign up for Proton Mail if desired.
 
-### Inconclusion ###
+### In Conclusion ###
 
 Ditch Google and Outlook and switch to Proton and or Tutanota for better email privacy and security that offers end to end encryption for the sender and reciever.
 
@@ -142,7 +142,7 @@ KWalletManager is a Linux specific password manager that works on various deskto
 
 Seahorse was developed by GNOME to store passwords and manage encryption 
 
-### Inconclusion ###
+### In Conclusion ###
 
 Having a password manager is a no brainer. If you are worried about weak passwords that are easily guessed or don't want to write or make your own passwords, then these free and open source password managers will do the trick for you!
 
@@ -178,7 +178,7 @@ Much like the Yubikey the Nitrokey is another form of phycial 2FA. This free and
 
 Another free and open source alternative to Nitrokey that is available to businesses and individuals. Provides affordable options with great security.
 
-### Inconclusion ###
+### In Conclusion ###
 
 2FA is like adding another scoop of ice cream to the cone. The more security you have the better you will be. Whether you want to be private or not strong open source 2FA apps are needed, regardless of who you are. Now let's talk about encryption.
 
@@ -214,7 +214,7 @@ Free and open source encryption application for Linux and Mac, where each file i
 
 A free and open source Linux encryption application that can encrypt external hard drives and partitions of laptops and computers. Supports various encryptions like LUKS and AES.
 
-### Inconclusion ###
+### In Conclusion ###
 
 If you want your devices to stay extra secure encrypting them is needed to ensure full security. Whatever situation you are in, whether it's letting a friend or family use your computer or you live in a place where crime is normal and you don't want thieves getting access to your files... Encrypt everything!
 
@@ -258,7 +258,7 @@ QubesOS is a security based operating system that provides security through isol
 
 Whonix offers both a virtual and live environment for anonymity. All traffic is routed through Tor and hardened for security and privacy.
 
-### Inconclusion ###
+### In Conclusion ###
 
 Linux is the best to use for P.S.A especially the last three recommended distros. If you care about privacy get rid of Windows and MacOS and swap to GNU+Linux.
 
@@ -284,7 +284,7 @@ A free and open source Android based operating system that offers high amounts o
 
 A FOSS Android OS developed by the Calyx Institute, that offers security, privacy and even anonymity based tools like the Tor browser and Orbot. Uses FOSS applications like messengers such as Signal and Briar, cloud storage apps like Nextcloud, and VPN's like Riseup VPN. Comes pre-installed with 18 FOSS and P.S.A respecting apps. Supports a variety of smartphones like Pixel phones and tablets, Fairphones, SHIFT phones, and MotoG.
 
-### Inconclusion ###
+### In Conclusion ###
 
 While there are no iPhone alternatives for private operating systems, iPhone is a secure OS that can utilize FOSS apps that can provide an upper hand in privacy for Android.
 
@@ -304,7 +304,7 @@ F-Droid is an app store alternative that catalogues FOSS applications for Androi
 
 Available via the F-Droid store, a FOSS client to Google Play that allows users to download, update, and search for apps without Google tracking.
 
-### Inconclusion ###
+### In Conclusion ###
 
 These FOSS apps not only distribute more FOSS apps but also give great abilities like removing Google tracking when using Google Play Services.
 
@@ -342,7 +342,7 @@ Another FOSS VPN that offers a free tier with strong encryption, multiple server
 
 OpenVPN and Wireguard can be installed on Linux, Mac and Windows and is commonly installed on most Linux distros like Mint. These two VPN's are FOSS and allow a user to have more control over the settings when they are in use. The mentioned VPN's offer a OpenVPN configuration file which can be used instead of the application that comes with the VPN. Can also be used with servers in the cloud if you run your own VPN service.
 
-### Inconclusion ###
+### In Conclusion ###
 
 VPN's are great but not all are created equally. The 5 mentioned above are great and should be used to ensure your internet traffic is secure, private and anonymous. If you wish to make your own VPN service in the cloud and disable all forms of traffic that is a more trusted VPN, as you are in control.
 
@@ -364,7 +364,7 @@ Mullvad DNS is a free, encrypted and very private DNS that supports DNS over HTT
 
 Quad 9 is a free DNS provider with an emphasis on security and privacy. No logging of users IP address's and is able to run on browsers and operating systems.
 
-### Inconclusion ###
+### In Conclusion ###
 
 When not using a VPN (which has its own DNS), a secure and privacy focused DNS will protect your traffic from being snooped on by your ISP or external threats. It is another layer of security which is always beneficial for everyone and for every threat model.
 
@@ -395,7 +395,7 @@ FOSS and E2EE that requires no form of identification. Decentralized proxy serve
 Signal has been praised for its security and privacy, however it is not anonymous. Signal does provide great security features for encrypted communications as well as routing calls through Signal owned proxies. Signal does require a phone number, so a phone number must be acquired anonymously. Usernames are a feauter of Signal which adds an extra sense of security and privacy. 
 
 
-### Inconclusion ###
+### In Conclusion ###
 
 We all are either texting family, friends, co-workers or whoever. Messages can be intercepted if not using any form of encryption and can be tied back to you if they require personal information. The four included above excluding Signal are the best for P.S.A. Where as Signal is better for privacy and security.
 
@@ -427,7 +427,7 @@ Privacy.com is a US only credit card aliasing service that hides users credit ca
 
 There are services like iPostal1, UK PostBox, and PostScanMail which provide a virtual address to hide your real home address. However they require lots of personal information and if necessary steps have been taken you can use these however be aware of the risks with using their services. Try as best as you can to give a real address that isn't related to or near you at all. If you are in the U.S and order something from Amazon, there are Amazon lockers where you can go an pick up your items. It's best to find a place that has a real address and send your mail there using faked information such as name, aliased email, phone number, and other info that is needed. Keep in mind this can be very difficult to do, or if you want send mail to a trusted friend or family member and pick it up from them. 
 
-### Inconclusion ###
+### In Conclusion ###
 
 Good OPSEC includes data never being traced back to you, or mitigating as little of data being traced back or related to you. An alias can provide good security and privacy but be aware that aliasing your info is just a part of P.S.A.
 
@@ -461,7 +461,7 @@ OnionShare is an open-source tool that lets you securely and anonymously share f
 
 Arguably the best choice for users serious about their P.S.A. No one to trust except yourself and your OPSEC. There are DIY options for hosting your own storage such as the Synology NAS. External hard drives and USB's are the best option that are encrypted and also hidden in either a safe or somewhere else where only you have the knowledge of its location.
 
-### Inconclusion ###
+### In Conclusion ###
 
 Cloud storage is controversial among the tech and privacy community. If taken the proper steps having a private and secure cloud service provider to hold sensitve files can help with your P.S.A. However the best option is self hosting or external drives.
 
@@ -484,7 +484,7 @@ Much like Monero Zcash (ZEC) is privacy and security focused that puts the user 
 
 ### 3. Cake Wallet ###
 
-Cake Wallet is a FOSS crypto wallet that can easily hold your Monero XMR. Available for all operating systems. Features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
+Cake Wallet is a FOSS crypto wallet that can easily hold you Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
 
 ### 4. Bisq ###
 
@@ -496,7 +496,7 @@ These two websites allow users to use their crypto currencies like Monero to buy
 
 Coincards.com allows people to buy gift cards with crypto. Gift cards can range from retail, beauty, clothing, home improvement, groceries and even pre-paid credit cards. Coincards has it all and even allows users to buy gift cards worth up to $1,000. Privacy and security focused however it is proprietary, but offers a solution to living off crypto.
 
-### Inconclusion ###
+### In Conclusion ###
 
 Cryptocurrencies like Monero and Zcash are perfect for being a ghost in the modern world. They can even be mined just like Bitcoin, however be aware of the cost that can have on you and utility bills. If you want to live off the crypto you trade, mine or invest in services like Cryptwerk and Coincards allow you to do so. And services like Bisq allow you to trade and sell you crypto to make profits.
 
@@ -504,7 +504,7 @@ Cryptocurrencies like Monero and Zcash are perfect for being a ghost in the mode
 
 Holy cow! If you have made it this far into Ghosted, then you deserve a treat. Go get yourself some ice cream using some of the tools and services that were talked about earilier. However now is when it gets very serious, we have to talk about physical security, recommended hardware, threat models, DIY projects, removal of data found on internet and much more. 
 
-If you have incorporated every step up until now then you are 75% complete from calling your self a digital ghost! Also good job on making it this far, it's not easy to do but you are sure are doing it with ease!
+If you have incorporated every step up until now then you are 75% complete from calling your self a digital ghost! Also good job on making it this far, it's not easy to do but you are doing it with ease!
 
 ## ##
 
@@ -530,13 +530,13 @@ For example this would be a great start for Winter or Fall:
 
 -Dark colored beanie (no logo, design or pompom)
 
--Face mask (optional)
+-Dark clothed doctor face mask (optional)
 
 -Gloves
 
 -Dark colored running sneakers or combat boots
 
--Backpack or bag (optional)
+-Faraday backpack or bag (optional)
 
 -Sunglasses (optional)
 
@@ -546,7 +546,7 @@ Remember ALWAYS WEAR SNEAKERS!!!
 
 Buy your clothes using cash, crypto, or gift cards privately or anonymously obtained. 
 
-### Inconclusion ###
+### In Conclusion ###
 
 Wearing the right clothes that are not only comfortable and functional but also keep you blended into the crowd or hidden, will be best for you. Make sure to fit the crowd or learn to stay hidden in public places. Be wary of cameras that may record your face or eyes and take necessary precautions in where you are going and the general surveillance.
 
@@ -603,3 +603,17 @@ More of a power beast than previous two made specifically for hard core gaming, 
 -2TB SSD
 
 This will be the most expensive due to its power coming in at around $4,150 or more depending on tax. 16 inch laptop, multiple ports, liquid cooled, and more than enough power for Qubes or any Linux distro.
+
+### 4. Thinkpad T430 ###
+
+A cheaper alternative to the previous mentioned computers as prices can vary from $150 to $300. Thinkpads are known for being able to run Linux without any problems, and often don't contain thrid party software like Nvidia. Thinkpads are also very customizeable and depending on the model can replace the UEFI with Libreboot. 
+
+### 5. Nitro PC Pro 2 ###
+
+Made from the Nitrokey family as well that is privacy and security first while also providing amazing performance. FOSS firmware called Coreboot allows for a open source UEFI. And includes the newest hardware on the market. Can cost from $1,500 to $8,200 depending on hardware selected.
+
+### In Conclusion ###
+
+Laptops and PC's can cost a lot, but if you have the right amount of money then you can buy whatever piece of hardware you want. You can be also budget friendly and use a spare laptop lying around and replace it with Linux. Whatever laptop with high or low specs you buy, it is your computer, have fun with it.
+
+## ##
