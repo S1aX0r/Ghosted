@@ -557,11 +557,11 @@ Using the correct hardware such as crypto wallets, laptops and computers with th
 
 ### RECOMMENDED LAPTOPS / COMPUTERS ###
 
-### 1. NitroPad V56 ###
+### 1. NitroPad V54 ###
 
 The NitroPad V56 is made from the same company that makes NitroKeys for 2FA. This computer can be bought with virtual credit cards or via Bitcoin. Depending on the hardware specs you want prices will vary, especially when it comes to QubesOS. It is recommended to get a Nitropad V56 with the following specs to the laptop. 
 
--Intel i7 11th Gen
+-Intel i7 14th Gen
 
 -Nvidia GeForce RTX 4070
 
