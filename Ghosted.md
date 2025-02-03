@@ -509,7 +509,7 @@ If you have incorporated every step up until now then you are 75% complete from 
 
 ### PHYSICAL SECURITY ###
 
-Let's now go into physical security. You can be super secure, private and anonymous on the internet and digital world, but if you aren't in real life, then you are setting yourself up for disaster. This will cover physical OPSEC to ensure you have the best security in the real world. Let's get into it.
+Let's now go into physical security. You can be super secure, private and anonymous on the internet and digital world, but if you aren't in real life, then you are setting yourself up for disaster. This will cover physical OPSEC to ensure you have the best security for your needs. Let's get into it!
 
 ### PHYSICAL SECURITY RECOMMENDATIONS ###
 
@@ -555,11 +555,9 @@ Wearing the right clothes that are not only comfortable and functional but also 
 
 Using the correct hardware such as crypto wallets, laptops and computers with the correct power, storage and ram can change how well or different you operate with your devices. 
 
-### RECOMMENDED LAPTOPS / COMPUTERS ###
-
 ### 1. NitroPad V54 ###
 
-The NitroPad V56 is made from the same company that makes NitroKeys for 2FA. This computer can be bought with virtual credit cards or via Bitcoin. Depending on the hardware specs you want prices will vary, especially when it comes to QubesOS. It is recommended to get a Nitropad V56 with the following specs to the laptop. 
+The NitroPad V54 is made from the same company that makes NitroKeys for 2FA. This computer can be bought with virtual credit cards or via Bitcoin. Depending on the hardware specs you want prices will vary, especially when it comes to QubesOS. It is recommended to get a Nitropad V54 with the following specs to the laptop. 
 
 -Intel i7 14th Gen
 
@@ -571,9 +569,9 @@ The NitroPad V56 is made from the same company that makes NitroKeys for 2FA. Thi
 
 -No webcam / microphone
 
--No OS
+-No OS (Install GNU/Linux or Qubes)
 
-That will cost around $2,920 or more depending on shipping. UEFI can be replaced with Libreboot or Coreboot. 13 inch laptop.
+That will cost around $2,920 or more depending on shipping. UEFI can be replaced with Libreboot or Coreboot. 14 inch laptop.
 
 ### 2. Asus ROG Flow X13 2023 ###
 
@@ -645,5 +643,48 @@ This router can be flashed with OpenWRT, a FOSS OS made for routers to give full
 ### 5. Faraday Bags ###
 
 Faraday bags are capable of blocking out signals that are transmitted from technology. Optimal for when you have your phone in public and don't want any form of transmission coming from your phone such as WiFi or bluetooth. There are also Faraday pouches available for phones and tablets. Recommended to use a Faraday backpack with Faraday pouches for tablets or smartphones. Can also be used for blocking connections that use NFC (Near Field Communication) such as credit / debit cards. A necessity for ghosts worried about their P.S.A.
+
+### In Conclusion ###
+
+This additional hardware is an absolute must if you have made it down this far. Not only will you get hands on experience with working on your devices, you also gain complete control of what you can do with them. Maybe you might enjoy doing things related to cybersecurity or I.T and might want to do more projects. Great hardware and great skils that come with the hardware, it is recommended to grab a piece of hardware and get to work on it. More importantly have fun with it, privacy fatigue is real so take it easy and don't just rush into all of this, unless you must.
+
+### WEB CLEANUP ###
+
+Everything stays on the internet, whether you like it or not. That's why it is called the web... But you can do some web cleanup to lower the chances of you being found online and having related info trace back to you. So let's cover the ways to remove or falsify your info.
+
+### RECOMMENDED WEB CLEANUP / SECURITY ###
+
+### 1. Non-privacy respective services ###
+
+Google and other related tech companies are not privacy respective, everyone knows that. So if you have any services such as Gmail, Google Docs, Google Drive, any services that Google offers make sure to request your data from them. Please note, gathering your data from Google can take a very long time, excpeted up to 6 months or even longer. Data removal takes a long time but it is worth the wait. You can login to your Google provided service and then go to settings to remquest your data. At this point delete all forms of social media and request your data and shred it. The same concept applies to all websites you have signed up to, and all forms of social media that is owned by Meta, ByteDance, or any other social media provider. They are the most privacy envasive and can be prone to attacks and data leaks. Your info is also sold on these websites for advertising purposes.
+
+TUTORIAL HERE: https://www.itpro.com/general-data-protection-regulation-gdpr/31330/how-to-reclaim-your-data-from-google-facebook
+
+### 2. DNM Bible ###
+
+The DNM Bible or the DarkNet Market Bible for OPSEC is made for mainting high security, privacy and anonymity for using Tor and navigating Onion links. However, the DNM Bible is made for people new to Tor who wish to purchase certain "products". While Ghosted is NOT a tutorial for illegal means the DNM Bible offers the best info and guides on OPSEC. The DNM is very in depth and offers lots of knowledge that could be used for optimal P.S.A. The Tor browser is needed to access the DNM Bible and can be accessed from the website tor.taxi on the Tor browser. It's best to use the Onion link that is provided in tor.taxi, throughly read the text! 
+
+### 3. VPN & Tor? ###
+
+Using a VPN with Tor is a heated topic that has been discussed numerous times. A personal decision must be made for using the recommended VPN's with Tor. The creators of Tor don't recommend using a VPN with Tor due to it ruining OPSEC and more importantly removing the aspect of anonymity that comes from the Tor network. Once again it is your decision to do so, another option is to use an ethernet cable that is connected to your laptop / computer and then into  your router running OpenWRT and optionally using a VPN. This is all optional to do, make your own decision.
+
+### 4. Hide, Run or Fight ###
+
+God forbid that you ever face any form of danger that threatens the safety and lives of your family and you. But there might be a time where you need to either hide, run or fight. If you are taking this guide seriously you may never be in such a situation, but OPSEC can fail at any time and any place. If you need to hide have multiple "bug out zones" where only you know. This is to ensure the location of the bug out zone is not leaked out to anyone else, even your family which could be a target. The bug out zone should be in a lightly populated area that has no cameras or surveillance and has multiple exit routes. 
+
+Make sure the bug out zone has food, water, medicine, clothing, and anything essential that can last for 1 to 3 months. While this may never happen to you, or may not be affordable there are still other options like leaving the state or country if needed and livinig off what you have. 
+
+If you need to run or never want to be caught, you must prepare for being able to go anywhere. Having a vehicle that has no tracking on it, fast, and covert will be your best option. Make sure to move from place to place and never stay in one place for more than 2-3 days. Always have aditional cash on you as ordering gift cards off of Coinbase.com or Cryptwerk will be difficult without an address. 
+
+If you need to fight, then you must do so... But remember the area in which you reside have different laws regarding self-defense. Best to discuss this with a lawyer.
+
+### In Conclusion ###
+
+Hopefully you never have to implent these tactics and if this does happen then something happened to your OPSEC which resulted in you being found. Perfect security is an illusion, you can only try your best, stay calm and think critically about what you do. 
+
+
+### DUMB PHONES ###
+
+Dumb phones sound exactly what you are thinking. Phones without any of the smart features. This includes flip phones that can easily and affordably be bought with crypto, cash or gift card. Flip phones can range from $15 to $30 or can be bought for less in gas stations or convenience stores with cash.
 
 ## ##
