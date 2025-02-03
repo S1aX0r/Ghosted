@@ -483,7 +483,7 @@ Much like Monero Zcash (ZEC) is privacy and security focused that puts the user 
 
 ### 3. Cake Wallet ###
 
-Cake Wallet is a FOSS crypto wallet that can easily hold your Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
+Cake Wallet is a FOSS crypto wallet that can easily hold you Monero XMR. Available for all operating systems. that features no 3rd parties, full user control, built in exchange features, and has Cake Pay. Cake Pay allows a Cake Wallet user to live off their crypto for any type of spending needs.
 
 ### 4. Bisq ###
 
@@ -686,5 +686,47 @@ Hopefully you never have to implent these tactics and if this does happen then s
 ### DUMB PHONES ###
 
 Dumb phones sound exactly what you are thinking. Phones without any of the smart features. This includes flip phones that can easily and affordably be bought with crypto, cash or gift card. Flip phones can range from $15 to $30 or can be bought for less in gas stations or convenience stores with cash.
+
+A great alternative if you ever have to make a quick phone call and then dump the phone. Make sure to break the phone and properly dispose of it without any trace of you on it, ie. DNA or fingerprints.
+
+### COVERING TRACKS ###
+
+It is important to cover your tracks for the best OPSEC. For example always keeping some wet wipes to not only clean your hands and body, but also for wiping down your keyboard and any place you put your hands on such as a table. You don't have to go over board unless your threat model calls for it. In simple terms wipe down your area, and clean your hands as often as you can. Good hygiene and OPSEC.
+
+### STAYING QUIET / PERSONAS ###
+
+Another rule to obey is this: NEVER TALK ABOUT WHAT YOU ARE DOING! Noone needs to know that you are becoming a Ghost. Stay quiet!!! Don't tell friends, neighbors, work freinds, and if needed family. Other people will look at you like a madman and then talk behind your back to other people. You may not know it but more people will draw their attention to you, just because you opened your mouth. Learn to talk about yourself in a fake persona. When talking to people you don't know, falsify your name, birthday, job, hobbies, likes and dislikes, and even to an extent your accent and appearance. Sounds like James Bond huh?
+
+### EARNING MONEY / SKILLS ###
+
+You might be thinking how is this physical security? Well in order to buy all these items and invest in Monero, Zcash and your P.S.A, you need to earn money. Don't worry a course isn't going to be sold to you but you should have a plan for getting money. If you are technical you can apply for jobs in I.T, mine Monero or Bitcoin or be a freelancer. For being a freelancer you need to have a certain skill. 
+
+### RECOMMENDED SKILLS ###
+
+### 1. Cybersecurity Purple Team ###
+
+Cybersecurity is the next big thing. Companies get attacked everyday and they need people to test their systems and harden them. That is where you come in. There are 3 teams within the cybersecurity field. Blue team: the defenders of the cyberworld, often filling multiple rolls like SOC analyst (Security Operations Center), cybersecurity engineer, incident responder, digital forensics and so much more! There are endless roles for blue team.
+
+Then there is the red team. The red tean are the attackers often known as pentesters. These are the whitehat hackers who hack companies and do physical penetration tests to determine the security of the people within the company as well as the security of a companies website and or machines. Red teamers can spend months during an engagement, breaking into the building and servers in unconditional ways. The best defense is a great offense and that's what red team is for.
+
+And you guessed it, purple team incorporates the two. Be a defender and an attacker and offer the best of both worlds. What company wouldn't want to contract you for that?! Not only are valueable skills learned and applied within real world scenarios, you will understand how to attack and defend yourself for the upmost security. Perhaps the best role to go into, but can take time to learn. However it is worth it in the end due to the skillset, knowledge and pay. 
+
+Must know coding languages: Python, C/C++, Javascript, Bash, SQL.
+
+### 2. Trader ###
+
+Learning to trade can be an easier way of getting money. If you aren't to tech savvy but still want a good pay, trading can fullfil that wish for you. Learn about the stock market, trading and selling stocks, buying stocks and even trade and sell crypto! This skill can also be paired with other skills to bring in an additional source of income. 
+
+### 3. SaaS ###
+
+SaaS or Software as a Service is a way of providing software that you made as a service. Charge whatever fee you want and sell to big companies or small companies on the rise! Must know how to program in Python, C++, Java, Rust and know a database like SQL or MongoDB.
+
+### 4. Full Stack Developer ###
+
+A full stack developer is someone who can not only code a website but also run the website in the backend. New companies rise everyday and you will be the one who provides them with a website. Must know HTML, CSS, Javascript, SQL, MongoDB and PHP. Pairs well with other skills.
+
+### In Conclusion ###
+
+Knowing technical skills in the 21st century is the best skill anyone can have. Not only does it provide you with more knowledge it also rewards you with high pay.
 
 ## ##
