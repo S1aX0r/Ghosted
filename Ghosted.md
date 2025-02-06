@@ -391,7 +391,7 @@ FOSS and E2EE that requires no form of identification. Decentralized proxy serve
 
 ### 4. Signal ###
 
-Signal has been praised for its security and privacy, however it is not anonymous. Signal does provide great security features for encrypted communications as well as routing calls through Signal owned proxies. Signal does require a phone number, so a phone number must be acquired anonymously. Usernames are a feauter of Signal which adds an extra sense of security and privacy. 
+Signal has been praised for its security and privacy, however it is not anonymous. Signal does provide great security features for encrypted communications as well as routing calls through Signal owned proxies. Signal does require a phone number, so a phone number must be acquired anonymously. Usernames are allowed in Signal which adds an extra sense of security and privacy. 
 
 
 ### In Conclusion ###
@@ -573,6 +573,22 @@ The NitroPad V54 is made from the same company that makes NitroKeys for 2FA. Thi
 
 That will cost around $2,920 or more depending on shipping. UEFI can be replaced with Libreboot or Coreboot. 14 inch laptop.
 
+For a more extreme version of the Nitropad V54, following specs are recommended.
+
+-Intel i7 14th Gen
+
+-Nvidia GeForce RTX 4070
+
+-4TB SSD (1st Hard Disk)
+
+-4TB SSD (2nd Hard Disk)
+
+-No webcam / microphone
+
+-No OS (Install GNU/Linux or Qubes)
+
+This will cost $4,000 without shipping, but has a lot of storage and ram capapble of running Qubes and storing sensitive data. 
+
 ### 2. Asus ROG Flow X13 2023 ###
 
 While made by Asus this computer packs a punch. Depending on the model you can get a powerhouse computer that is capable of running QubesOS. Recommended hardware specs:
@@ -613,13 +629,17 @@ A cheaper alternative to the previous mentioned computers as prices can vary fro
 
 Made from the Nitrokey family as well that is privacy and security first while also providing amazing performance. FOSS firmware called Coreboot allows for a open source UEFI. And includes the newest hardware on the market. Can cost from $1,500 to $8,200 depending on hardware selected.
 
+### BONUS. Virutal Machines ###
+
+A virtual machine or known as a VM is a way of having a computer run inside your computer, but is isloated from your actual host. These can be used for added privacy as well as running other operating systems within the VM. The most recommended VM software to use is either Virtual Box (FOSS) which can be run on all OS. Or a better, faster and more secure option is KVM paired with QEMU and virtual manager. The last option can only be run on Linux, however it offers better security, more customizability and is FOSS. 
+
 ### In Conclusion ###
 
 Laptops and PC's can cost a lot, but if you have the right amount of money then you can buy whatever piece of hardware you want. You can be also budget friendly and use a spare laptop lying around and replace it with Linux. Whether you buy a laptop with high or low specs, it is your computer, have fun with it.
 
 ### ADDITIONAL HARDWARE ###
 
-You can have a computer or laptop running Qubes, a Pixel phone with CalyxOS and have the best OPSEC. But you still need additional pieces of hardware that can protect your home. This section will cover so.
+You can have a computer or laptop running Qubes, a Pixel phone with CalyxOS and have the best OPSEC. But you still need additional pieces of hardware that can protect you and your home. This section will cover so.
 
 ### RECOMMENDED ADDITIONAL HARDWRE ###
 
@@ -642,7 +662,7 @@ This router can be flashed with OpenWRT, a FOSS OS made for routers to give full
 
 ### 5. Faraday Bags ###
 
-Faraday bags are capable of blocking out signals that are transmitted from technology. Optimal for when you have your phone in public and don't want any form of transmission coming from your phone such as WiFi or bluetooth. There are also Faraday pouches available for phones and tablets. Recommended to use a Faraday backpack with Faraday pouches for tablets or smartphones. Can also be used for blocking connections that use NFC (Near Field Communication) such as credit / debit cards. A necessity for ghosts worried about their P.S.A.
+Faraday bags are capable of blocking out signals that are transmitted from technology. Optimal for when you have your phone in public and don't want any form of transmission coming from your phone such as WiFi or Bluetooth. There are also Faraday pouches available for phones and tablets. Recommended to use a Faraday backpack with Faraday pouches for tablets or smartphones. Can also be used for blocking connections that use NFC (Near Field Communication) such as credit / debit cards. A necessity for ghosts worried about their P.S.A.
 
 ### In Conclusion ###
 
@@ -709,9 +729,13 @@ Cybersecurity is the next big thing. Companies get attacked everyday and they ne
 
 Then there is the red team. The red tean are the attackers often known as pentesters. These are the whitehat hackers who hack companies and do physical penetration tests to determine the security of the people within the company as well as the security of a companies website and or machines. Red teamers can spend months during an engagement, breaking into the building and servers in unconditional ways. The best defense is a great offense and that's what red team is for.
 
-And you guessed it, purple team incorporates the two. Be a defender and an attacker and offer the best of both worlds. What company wouldn't want to contract you for that?! Not only are valueable skills learned and applied within real world scenarios, you will understand how to attack and defend yourself for the upmost security. Perhaps the best role to go into, but can take time to learn. However it is worth it in the end due to the skillset, knowledge and pay. 
+And you guessed it, purple team incorporates the two. Be a defender and an attacker and offer the best of both worlds. What company wouldn't want to contract you for that?! Not only are valueable skills learned and applied within real world scenarios, you will understand how to attack and defend yourself for the upmost security. Perhaps the best role to go into, but can take time to learn. However it is worth it in the end due to the skillset, knowledge and pay. Also opens up to "bug bounty" opportunities which can have a payout within the low to high thousands and even millions!
 
 Must know coding languages: Python, C/C++, Javascript, Bash, SQL.
+
+Linux knowledge is required
+
+Optional Certifications: Comptia A+, Cisco CCNA, Comptia Security+, eJPT, OSCP, Blue Team Level 1, Blue Team Level 2, GOSI, AWS-CSS, GCFE
 
 ### 2. Trader ###
 
@@ -728,5 +752,11 @@ A full stack developer is someone who can not only code a website but also run t
 ### In Conclusion ###
 
 Knowing technical skills in the 21st century is the best skill anyone can have. Not only does it provide you with more knowledge it also rewards you with high pay.
+
+### PUTTING IT ALL TOGETHER ###
+
+This was a lot, and honestly it may seem overkill, but depending on your threat model and what you are trying to avoid, this may be for you. It is recommended to take all the gear, tools, and steps needed and become a ghost. It will take time, to adjust to these unusual changes in life but you must believe in yourself. You are capable of great change, use it for improving your life and others.
+
+Thank you very much for reading Ghosted, and taking time out of your day to read about P.S.A.
 
 ## ##
