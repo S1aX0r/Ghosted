@@ -40,19 +40,13 @@ Mullvad Broswer is based on Firefox that provides privacy features similar to th
 
 ### 4. Tor Browser ###
 
-The Tor browser is the go to if you want anonymity, security on a whole other level, and privacy from government agencies or privacy envasive entities. Known for being able to access the Tor (The Onion Router) network. While this is an excellent choice for P.S.A, it must be used correctly so that no information is traced back to you. Grants access to the "Dark Web" and built off of Firefox with access to extensions like NoScript which blocks JavaScript used to ID you. In addition to providing the best    P.S.A., it is also free and open source.
-
-### 5. Firefox ###
-
-Firefox is a free and open source browser that is private and secure. However it requires hardening in order to ensure its full potential. Lots of security and privacy featu### Inconclusion ###
-res that can be tailored for various needs and has access to extensions to improve the security of the browser. Ublock Origin and Privacy Badger are recommended to install on Firefox.
+The Tor browser is the go to if you want anonymity, security on a whole other level, and privacy from government agencies or privacy envasive entities. Known for being able to access the Tor (The Onion Router) network. While this is an excellent choice for P.S.A, it must be used correctly so that no information is traced back to you. Grants access to the "Dark Web" and built off of Firefox with access to extensions like NoScript which blocks JavaScript used to ID you. In addition to providing the best P.S.A.,free and open source.
 
 ### In Conclusion ###
 There are plenty of other options that are avialable 
 for browsers but these are the top five recommended. Keep in mind that different browsers can be used for various reasons and can fulfill different wishes. Do research on what browser suits your needs and make sure to verify that you have the correct browser installed. 
 
 Now let's move on to the next part!
-
 
 ### SEARCH ENGINES ###
 
@@ -243,7 +237,7 @@ Linux Mint is the easiest and most begineer friendly distro that works straight 
 
 ### 2. Fedora OS ###
 
-Fedora comes out of the box with strong security and privacy by default (much like all distros) and is very versatile to fullfill user needs. A smooth sailing experience paired with great security and privacy just makes this distro an eye catcher.
+Fedora comes with strong security and privacy by default (much like all distros) and is very versatile to fullfill user needs. Easy to use and set up, and an overall amazing OS for all users.
 
 ### 3. TailsOS ###
 
@@ -347,7 +341,7 @@ VPN's are great but not all are created equally. The 5 mentioned above are great
 
 ### DNS (DOMAIN NAME SYSTEM) ###
 
-Your computer uses DNS to look up websites instead of looking up website names. For example 8.8.8.8 is what a computer would look at but we know it as Google.com. Your ISP or internet service provider can see what websites you go to, so having a private and secure DNS is an extra layer of privacy as well as security. So let's take a look into DNS's for your computers and browsers!
+Your computer uses DNS to look up websites instead of looking up website names. For example 8.8.8.8 is what a computer would look at but we know it as Google. Your ISP or internet service provider can see what websites you go to, so having a private and secure DNS is an extra layer of privacy as well as security. So let's take a look into DNS's for your computers and browsers!
 
 ### RECOMMENDED DNS ###
 
@@ -676,7 +670,7 @@ Everything stays on the internet, whether you like it or not. That's why it is c
 
 ### 1. Non-privacy respective services ###
 
-Google and other related tech companies are not privacy respective, everyone knows that. So if you have any services such as Gmail, Google Docs, Google Drive, any services that Google offers make sure to request your data from them. Please note, gathering your data from Google can take a very long time, excpeted up to 6 months or even longer. Data removal takes a long time but it is worth the wait. You can login to your Google provided service and then go to settings to remquest your data. At this point delete all forms of social media and request your data and shred it. The same concept applies to all websites you have signed up to, and all forms of social media that is owned by Meta, ByteDance, or any other social media provider. They are the most privacy envasive and can be prone to attacks and data leaks. Your info is also sold on these websites for advertising purposes.
+Google and other related tech companies are not privacy respective, everyone knows that. So if you have any services such as Gmail, Google Docs, Google Drive, any services that Google offers make sure to request your data from them. Please note, gathering your data from Google can take a very long time, excpeted up to 6 months or even longer. Data removal takes a long time but it is worth the wait. You can login to your Google provided service and then go to settings to request your data. At this point delete all forms of social media and request your data and shred it. The same concept applies to all websites you have signed up to, and all forms of social media that is owned by Meta, ByteDance, or any other social media provider. They are the most privacy envasive and can be prone to attacks and data leaks. Your info is also sold on these websites for advertising purposes.
 
 TUTORIAL HERE: https://www.itpro.com/general-data-protection-regulation-gdpr/31330/how-to-reclaim-your-data-from-google-facebook
 
@@ -715,7 +709,7 @@ It is important to cover your tracks for the best OPSEC. For example always keep
 
 ### STAYING QUIET / PERSONAS ###
 
-Another rule to obey is this: NEVER TALK ABOUT WHAT YOU ARE DOING! Noone needs to know that you are becoming a Ghost. Stay quiet!!! Don't tell friends, neighbors, work freinds, and if needed family. Other people will look at you like a madman and then talk behind your back to other people. You may not know it but more people will draw their attention to you, just because you opened your mouth. Learn to talk about yourself in a fake persona. When talking to people you don't know, falsify your name, birthday, job, hobbies, likes and dislikes, and even to an extent your accent and appearance. Sounds like James Bond huh?
+Another rule to obey is this: NEVER TALK ABOUT WHAT YOU ARE DOING! No one needs to know that you are becoming a Ghost. Stay quiet!!! Don't tell friends, neighbors, work friends, and if needed family. Other people will look at you like a madman and then talk behind your back to other people. You may not know it but more people will draw their attention to you, just because you opened your mouth. Learn to talk about yourself in a fake persona. When talking to people you don't know, falsify your name, birthday, job, hobbies, likes and dislikes, and even to an extent your accent and appearance. Sounds like James Bond huh?
 
 ### EARNING MONEY / SKILLS ###
 
